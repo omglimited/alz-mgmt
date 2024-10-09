@@ -376,7 +376,7 @@
       "value": {
         "name": "alz-expressroute-gateway-secondary",
         "gatewayType": "ExpressRoute",
-        "sku": "ErGw1Az",
+        "sku": "ErGw1",
         "vpnType": "RouteBased",
         "generation": "None",
         "enableBgp": false,
